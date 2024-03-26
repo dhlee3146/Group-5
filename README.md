@@ -1,5 +1,5 @@
 # Group-5
-Please write in English for this activity (😊 MK316 wrote at 5PM)
+Please write this page in English (😊 MK316 wrote at 5PM)
 
 학습도구 작성 페이지
 
