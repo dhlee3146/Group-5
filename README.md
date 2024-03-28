@@ -1,11 +1,14 @@
 # Group-5
 Please write this page in English (😊 MK316 wrote at 5PM)
 
-학습도구 작성 페이지
+Make video for expaination of digital tool and prepare the presentation over lesson plan using digital tool
 
-ankiweb
+Digital tool : ankiweb / android 도 사용 가능
 
-학습계획서 작성(vocabulary)-
-비디오에 들어갈 시나리오 작성
-다같이 모여서 비디오 제작
-발표
+Discuss senario for video and lesson plan (targeting vocabulary) _ 24.03.26
+
+Presenter : Dahye
+Video maker : Jeongmin
+Form the page : Hajeong
+
+We will discuss about our project on Monday_ 24.03.28
