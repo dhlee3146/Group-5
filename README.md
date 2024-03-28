@@ -11,4 +11,4 @@ Discuss **senario for video and lesson plan** (targeting vocabulary) _ 24.03.26
 + Video maker : Jeongmin
 + Form the page : Hajeong
 
-### We will discuss our project on Monday_ 24.03.28
+We will discuss our project on Monday_ 24.03.28
