@@ -22,13 +22,13 @@ This is the Plan of the virtual class, and in this class, we will use the "Anki"
 | Learning Process | Teaching-Learning |
 |---------------------------------------|
 | Introduction |
-💡Greetings
+|💡Greetings |
 
 Hello, Everyone
 
 How are you today?
 
-💡Review
+|💡Review |
 
 What is your dream?
 
@@ -38,7 +38,7 @@ Do you have any activities you would like to suggest to your friend in school?
 
 Then, what would you ask in that situation?
 
-💡Stating the aims of the lesson
+|💡Stating the aims of the lesson |
 
 Today, we’re going to illustrate the vocabulary of meaning.
 
