@@ -30,13 +30,9 @@ This is the Plan of the virtual class, and in this class, we will use the "Anki"
 |              |Then, what would you ask in that situation?|
 |              |💡Stating the aims of the lesson |
 |              |Today, we’re going to illustrate the vocabulary of meaning.|
-|-|
-|Activity|
-1. Learning and Reviewing the vocabularies
-2. Let’s illustrate the vocabularies of meaning |
-|------------------------------------------------------|
-|**Develop**|
-|1. Use the “Anki Web”
+|   Activity   | 1. Learning and Reviewing the vocabularies |
+|              | 2. Let’s illustrate the vocabularies of meaning |
+|  **Develop** | 1. Use the “Anki Web”
 -Insert the illustration of vacabulary and meaning
 EX) “School”: “a place where childeren go to learn things”
 
