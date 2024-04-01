@@ -22,28 +22,29 @@ This is the Plan of the virtual class, and in this class, we will use the "Anki"
 |----------------------------------------------- |
 | Learning Process | Teaching-Learning |
 |---------------------------------------|
-| Introduction | Greetings
+| Introduction |
+|💡Greetings
 -Hello, Everyone
--How are you today?
+-How are you today?|
 
-Review
+💡Review
 -What is your dream?
 -What is your special plan for the new school life? 
 -Do you have any activities you would like to suggest to your friend in school?
 -Then, what would you ask in that situation?
 
-Stating the aims of the lesson
+💡Stating the aims of the lesson
 -Today, we’re going to illustrate the vocabulary of meaning.Greetings
 -Hello, Everyone
 -How are you today?
 
-Review
+💡Review
 -What is your dream?
 -What is your special plan for the new school life? 
 -Do you have any activities you would like to suggest to your friend in school?
 -Then, what would you ask in that situation?
 
-Stating the aims of the lesson
+💡Stating the aims of the lesson
 -Today, we’re going to illustrate the vocabulary of meaning.
 |------------------------------------------------------------|
 |Activity|
