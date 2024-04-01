@@ -23,12 +23,10 @@ This is the Plan of the virtual class, and in this class, we will use the "Anki"
 | Introduction |💡Greetings |
 |              |Hello, Everyone|
 |--------------|How are you today?|
+|--------------|💡Review |
+|--------------|What is your dream?|
+|--------------|What is your special plan for the new school life?|
 
-|💡Review |
-
-What is your dream?
-
-What is your special plan for the new school life?
 
 Do you have any activities you would like to suggest to your friend in school?
 
