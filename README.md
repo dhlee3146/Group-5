@@ -12,3 +12,7 @@ Discuss **senario for video and lesson plan** (targeting vocabulary) _ 24.03.26
 + Form the page : Hajeong
 
 We will discuss our project on Monday_ 24.03.28
+
+------------------------------------------------
+This is the Plan of the virtual class, and in this class, we will use the "Anki" of the learning tool.
+
