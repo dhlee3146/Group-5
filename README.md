@@ -22,7 +22,7 @@ This is the Plan of the virtual class, and in this class, we will use the "Anki"
 | Learning Process | Teaching-Learning |
 | Introduction |💡Greetings |
 |              |Hello, Everyone|
-               |How are you today?|
+|--------------|How are you today?|
 
 |💡Review |
 
