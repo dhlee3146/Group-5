@@ -14,7 +14,7 @@ Discuss **senario for video and lesson plan** (targeting vocabulary) _ 24.03.26
 We will discuss our project on Monday_ 24.03.28
 
 ------------------------------------------------
-This is the Plan of the virtual class, and in this class, we will use the "Anki" of the learning tool.
+This is the Plan of the virtual class, and in this class, we will use the "Anki" of the learning tool. (Hajeong wrote at 1PM)
 ------------------------------------------------
 | unit | Where Should I Begin?_Teen Life | 
 |------| --------------------------------|
@@ -53,7 +53,7 @@ This is the Plan of the virtual class, and in this class, we will use the "Anki"
 
 ✨This is the senario for video and lesson plan✨
 
-The teacher begins the class. At first, greet the students and ask them questions that review what they learned in the previous session. And share the goals of this class with the children. The goal of this class is to solve English words in English and increase the amount of learning in English words.
+The teacher begins the class. At first, greet the students and ask them questions that review what they learned in the previous session. And share the goals of this class with the children. The goal of this class is to solve English words in English and increase the amount of learning in English words.(Hajeong Wrote 1PM)
 
 To achieve this goal, we use a learning tool called AnkiWeb. Children first look at the word chapters in the textbook. Look at the word chapters and explain the words. For example, the word "school" describes "where children go to learn something." Explain these various words by yourself and compare them with your partner. After that, the final answer is derived to create a Deck from a learning tool called AnkiWeb. Write the words and English pool you have selected on the generated Deck and learn hard with it.
 
