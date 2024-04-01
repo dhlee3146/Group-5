@@ -20,7 +20,7 @@ This is the Plan of the virtual class, and in this class, we will use the "Anki"
 |------| --------------------------------|
 | The aims of the lesson | We're going to illustrate the vocabularies of meaning |
 | Learning Process | Teaching-Learning |
-| Introduction |💡Greetings |
+| Introduction |💡Greetings 
 
 Hello, Everyone
 
