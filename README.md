@@ -66,4 +66,6 @@ The teacher begins the class. At first, greet the students and ask them question
 
 To achieve this goal, we use a learning tool called Study Stack. Children first look at the word chapters in the textbook. Look at the word chapters and explain the words. For example, the word "school" describes "where children go to learn something." Explain these various words by yourself and compare them with your partner. After that, the final answer is derived to create a Stack from a learning tool called Study Stack. Write the words and *English pool(their explanation) you have selected on the generated Flashcard and learn hard with it.
 
+It also helps students learn words self-directedly before and after class using this tool. So, we will suggest the workbook using this tool.
+
 After that, after learning the words, today's class impressions and what we learned are presented and the class is finished. (Hajeong Wrote 1PM)
