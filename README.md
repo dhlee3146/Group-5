@@ -16,6 +16,8 @@ We will discuss our project on Monday_ 24.03.28
 📝 Suggestion : How about changing digital tool with 'Study Stack'? _ 24.04.02 (Jeongmin wort at 13:15)
 + It is similar to Anki(function), but is more comportable to use and has more tidy web-design.
 
+
+
 ------------------------------------------------
 This is the Plan of the virtual class, and in this class, we will use the "Anki" of the learning tool. (Hajeong wrote at 1PM)
 ------------------------------------------------
