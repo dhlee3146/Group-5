@@ -46,22 +46,24 @@ This is the Plan of the English class, and in this class, we will use the "Study
 |💡use sample | 1. Search the "Study Stack” |
 |              | ![image](https://github.com/dhlee3146/Group-5/assets/162955126/9e4fe9d7-b640-453a-86f9-244efa05fe38) |
 |              | ![image](https://github.com/dhlee3146/Group-5/assets/162955126/c7d14150-c5ff-4ddf-9055-6f00f532d644) |
-|              | 2. Create Stack, in this level, you make the Stack, and insert the words and the meaning of vocabularies |
-|              |![image](https://github.com/dhlee3146/Group-5/assets/162955126/929e1005-e4fd-45f7-b129-92293a33b316) |
-|              | 3. Click "Add" and insert the vocabularies and the meaning of them |
-|              | ![image](https://github.com/dhlee3146/Group-5/assets/162955126/8062bd15-c1d0-405c-ad2b-3c5c08b1cbaa) |
+|              | 2. Log in your gmail. First describe your set of flashcards using the form on the left. Then click the Save Changes button. After you've saved your changes, click the "Data" tab to enter your flashcards. |
+|              | ![image](https://github.com/dhlee3146/Group-5/assets/162955126/7db0a684-00a4-4c1c-abcc-36f97873b6da) |
+|              | ![image](https://github.com/dhlee3146/Group-5/assets/162955126/731103b2-3589-4a11-8980-3d8e667f770d) |
+|              | 3. Then click the Save Changes button. After you've saved your changes, click the "Data" tab to enter your flashcards. |
+|              | ![image](https://github.com/dhlee3146/Group-5/assets/162955126/2fadf335-0103-42ad-8bcd-82122fb8d0c1) |
 |              | 4. Let's study the vocabularies using the "Flashcard" |
-|              | ![image](https://github.com/dhlee3146/Group-5/assets/162955126/dcd81451-06b2-453a-9af1-5c4bef343202) |
+|              | ![image](https://github.com/dhlee3146/Group-5/assets/162955126/02298745-30cb-4561-a8c3-39b739b17271) |
+|              | ![image](https://github.com/dhlee3146/Group-5/assets/162955126/15560a23-80ab-4772-b1ae-ccb187dadcf2) |
 |   Closure    | 💡Wrap up |
 |              | Let’s make a presentation student’s own illustration of vaca meaning |
 |              | Goodbye |
 
-⭐In Develop, we will use the "Anki".⭐
+⭐In Develop, we will use the "Study Stack".⭐
 
 ✨This is the senario for video and lesson plan✨
 
 The teacher begins the class. At first, greet the students and ask them questions that review what they learned in the previous session. And share the goals of this class with the children. The goal of this class is to solve English words in English and increase the amount of learning in English words.
 
-To achieve this goal, we use a learning tool called AnkiWeb. Children first look at the word chapters in the textbook. Look at the word chapters and explain the words. For example, the word "school" describes "where children go to learn something." Explain these various words by yourself and compare them with your partner. After that, the final answer is derived to create a Deck from a learning tool called AnkiWeb. Write the words and *English pool(their explanation) you have selected on the generated Deck and learn hard with it.
+To achieve this goal, we use a learning tool called AnkiWeb. Children first look at the word chapters in the textbook. Look at the word chapters and explain the words. For example, the word "school" describes "where children go to learn something." Explain these various words by yourself and compare them with your partner. After that, the final answer is derived to create a Stack from a learning tool called Study Stack. Write the words and *English pool(their explanation) you have selected on the generated Flashcard and learn hard with it.
 
 After that, after learning the words, today's class impressions and what we learned are presented and the class is finished. (Hajeong Wrote 1PM)
