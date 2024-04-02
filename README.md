@@ -15,6 +15,8 @@ We will discuss our project on Monday_ 24.03.28
 
 📝 Suggestion : How about changing digital tool with 'Study Stack'? _ 24.04.02 (Jeongmin wrote at 13:15)
 + It is similar to Anki(function), but is more comportable to use and has more tidy web-design.
++ ![image](https://github.com/dhlee3146/Group-5/assets/162955126/ccc6aa0b-a673-4cda-8595-61a91a4ca15e)
+
 
 
 
@@ -41,9 +43,9 @@ This is the Plan of the English class, and in this class, we will use the "Study
 |              | -Insert the illustration of vacabulary and meaning |
 |              | EX) “School”: “a place where childeren go to learn things” |
 |              | 2. Quiz time with your partner and using the “Anki Web” |
-|💡use sample | 1. Download the “Anki Web” |
-|              |  ![image](https://github.com/dhlee3146/Group-5/assets/162955126/9b677ab9-cc15-4ef6-8779-7fabc6f13bff) |
-|              | ![image](https://github.com/dhlee3146/Group-5/assets/162955126/06e81f1a-6aa3-4c75-8181-c3b2e4f0a915) |
+|💡use sample | 1. Search the "Study Stack” |
+|              | ![image](https://github.com/dhlee3146/Group-5/assets/162955126/9e4fe9d7-b640-453a-86f9-244efa05fe38) |
+|              | ![image](https://github.com/dhlee3146/Group-5/assets/162955126/c7d14150-c5ff-4ddf-9055-6f00f532d644) |
 |              | 2. Create Stack, in this level, you make the Stack, and insert the words and the meaning of vocabularies |
 |              |![image](https://github.com/dhlee3146/Group-5/assets/162955126/929e1005-e4fd-45f7-b129-92293a33b316) |
 |              | 3. Click "Add" and insert the vocabularies and the meaning of them |
