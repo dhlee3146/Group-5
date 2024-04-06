@@ -40,7 +40,7 @@ This is the Plan of the English class, and in this class, we will use the "Study
 |   Activity   | 1. Learning and Reviewing the vocabularies |
 |              | 2. Let’s illustrate the vocabularies of meaning |
 | ❗ **Develop** ❗| 1. Use the “Study Stack” |
-|              | -Insert the illustration of vacabulary and meaning |
+|              | -Insert the illustration of vocabulary and meaning |
 |              | EX) “School”: “a place where childeren go to learn things” |
 |              | 2. Quiz time with your partner and using the “Anki Web” |
 |💡use sample | 1. Search the "Study Stack” |
