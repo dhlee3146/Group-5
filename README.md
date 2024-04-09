@@ -96,3 +96,95 @@ After that, after learning the words, today's class impressions and what we lear
 ## 6. Mobile Compatibility:
 
   This platform can be used on various devices including smartphones and tablets, allowing users to study anytime, anywhere. In the classroom environment, students can actively participate in learning activities using various personal devices.
+
+
+  # script
+
+  [ Intro ]
+
+* Hello, students of English education! We would like to introduce you to a digital tool that you can use as a learning aid.
+
+* It's called 'StudyStack'.
+
+* StudyStack is a versatile digital tool designed to aid students in their learning journey by providing interactive study materials and resources.
+
+* It offers a wide range of features to enhance the learning experience across various subjects and topics.
+
+
+[ Functions ]
+
+* We have noticed 6 key features of StudyStack:
+
+1. Flashcard Function:
+
+  Users can create, customize, and share their own stacks. This allows learners to study various topics and concepts using flashcards. It can significantly enhance students' vocabulary learning. StudyStack allows users to create quizzes using the flashcard function. These quizzes can help teachers have a quick review before or after class, and students can use them for self-assessment or as study aids to test their knowledge retention.
+
+2. Various Games Offered:
+
+  This platform provides educational games that make studying more interesting and enjoyable. These games are designed to reinforce learning and help users understand concepts in a fun way. Through various games such as Matching game, Crossword, Unscramble game, and Chopped game, students' interest can be aroused and more engagement can be induced.
+
+* Encourage your students to engage with the stack by studying the flashcards, playing the games, and taking quizzes.
+
+
+
+
+3. Stack Sharing Function:
+
+  In StudyStack, users can share their created stacks with others. Teachers can share their educational stacks with students, and students can share their stacks with other students to help each other in their learning.
+
+4. Voice Support Available:
+
+  StudyStack supports voice function. When using flashcards, clicking on the sound icon allows you to hear the word and sentence, enabling learning through sound.
+
+5. Progress Tracking:
+
+  StudyStack provides tools to track progress or activities, allowing users to monitor their learning goals or identify areas for improvement. As you can see in the Study Log, you can measure and observe your own achievements and improvements.
+
+6. Mobile Compatibility:
+
+  This platform can be used on various devices including smartphones and tablets, allowing users to study anytime, anywhere. In the classroom environment, students can actively participate in learning activities using various personal devices.
+
+
+[ Guide Line ]
+
+* So, how do you use it? It's simple!
+
+1. First, go to www.studystack.com.
+2. Second, if you are visiting StudyStack for the first time, sign up using your email account and then log in.
+3. Third, create your own stack.
+4. Fourth, enter the data, such as words or concepts, needed for learning into the stack.
+5. Fifth, study using various educational games including the flashcard function based on the created stack.
+
+* This platform is designed to be easy and simple to use for both studrnts and teachers.
+
+
+
+[ Examples ]
+
+* Than, How do we utilize this digital tool in our classroom?
+
+* We believe that you can conduct lessons focusing on vocabulary learning using this convenient and effective digital tool.
+
+* Here’s an examples of how this digital too can be utilize in the classroom lesson.
+
+* Let's assume you are teaching English to 7th-grade students.
+
+* After briefly reviewing the previous lesson content, proceed with the lesson.
+
+* The goal of this lesson is for students to create and understand their own definitions of English words and increase the effectiveness of learning English words.
+
+* To achieve this goal, we use StudyStack.
+
+1. First, students look at the word list in the textbook.
+2. Then, they try to explain each word. For example, they explain the word "school" as "a place where children go to learn something.“
+3. After trying various word explanations and comparing them with those of their group members, they derive the final answer and create a stack on StudyStack.
+4. Afterward, share the stack link via Google Classroom or other classroom platform to make it available to the entire class.
+5. You can use student‘s stacks to play crossword puzzles or matching games, allowing students to see what other groups of students have done and reviewing vocabulary words.
+
+
+[ Outro ]
+
+* StudyStack serves as a valuable tool for students of all ages and levels, providing them with the resources they need to succeed academically and excel in their studies.
+
+* We recommend using this tool in your lessons.
+
