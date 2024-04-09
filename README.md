@@ -70,7 +70,7 @@ It also helps students learn words self-directedly before and after class using 
 
 After that, after learning the words, today's class impressions and what we learned are presented and the class is finished. (Hajeong Wrote 1PM)
 
-#🍀The features of the study stack
+# 🍀The features of the study stack
 ## 1. Flashcard Function:
 
   Users can create, customize, and share their own stacks. This allows learners to study various topics and concepts using flashcards. It can significantly enhance students' vocabulary learning. StudyStack allows users to create quizzes using the flashcard function. These quizzes can help teachers have a quick review before or after class, and students can use them for self-assessment or as study aids to test their knowledge retention.
