@@ -70,29 +70,29 @@ It also helps students learn words self-directedly before and after class using 
 
 After that, after learning the words, today's class impressions and what we learned are presented and the class is finished. (Hajeong Wrote 1PM)
 
-🍀The features of the study stack
-# 1. Flashcard Function:
+#🍀The features of the study stack
+## 1. Flashcard Function:
 
   Users can create, customize, and share their own stacks. This allows learners to study various topics and concepts using flashcards. It can significantly enhance students' vocabulary learning. StudyStack allows users to create quizzes using the flashcard function. These quizzes can help teachers have a quick review before or after class, and students can use them for self-assessment or as study aids to test their knowledge retention.
 
-# 2. Various Games Offered:
+## 2. Various Games Offered:
 
   This platform provides educational games that make studying more interesting and enjoyable. These games are designed to reinforce learning and help users understand concepts in a fun way. Through various games such as Matching game, Crossword, Unscramble game, and Chopped game, students' interest can be aroused and more engagement can be induced.
 
 * Encourage your students to engage with the stack by studying the flashcards, playing the games, and taking quizzes.
 
-# 3. Stack Sharing Function:
+## 3. Stack Sharing Function:
 
   In StudyStack, users can share their created stacks with others. Teachers can share their educational stacks with students, and students can share their stacks with other students to help each other in their learning.
 
-# 4. Voice Support Available:
+## 4. Voice Support Available:
 
   StudyStack supports voice function. When using flashcards, clicking on the sound icon allows you to hear the word and sentence, enabling learning through sound.
 
-# 5. Progress Tracking:
+## 5. Progress Tracking:
 
   StudyStack provides tools to track progress or activities, allowing users to monitor their learning goals or identify areas for improvement. As you can see in the Study Log, you can measure and observe your own achievements and improvements.
 
-# 6. Mobile Compatibility:
+## 6. Mobile Compatibility:
 
   This platform can be used on various devices including smartphones and tablets, allowing users to study anytime, anywhere. In the classroom environment, students can actively participate in learning activities using various personal devices.
