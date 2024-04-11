@@ -98,7 +98,7 @@ After that, after learning the words, today's class impressions and what we lear
   This platform can be used on various devices including smartphones and tablets, allowing users to study anytime, anywhere. In the classroom environment, students can actively participate in learning activities using various personal devices.
 
 
-  # script
+  # 💻 script 
 
   [ Intro ]
 
@@ -110,7 +110,9 @@ After that, after learning the words, today's class impressions and what we lear
 
 * It offers a wide range of features to enhance the learning experience across various subjects and topics.
 
+* So, what are the main features of StyudyStack?
 
+* We've summarized the key features of this tool into three points.
 [ Functions ]
 
 * We have noticed 6 key features of StudyStack:
@@ -187,4 +189,11 @@ After that, after learning the words, today's class impressions and what we lear
 * StudyStack serves as a valuable tool for students of all ages and levels, providing them with the resources they need to succeed academically and excel in their studies.
 
 * We recommend using this tool in your lessons.
+
+  # 📁 the video link(presentation)
+  ## https://youtu.be/SstQ0FuKRik?si=x_hRew80DMyPl_FI
+
+🔐 This video is partially public. You need a link to see it.
+  
+
 
