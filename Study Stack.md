@@ -25,9 +25,9 @@
 |   Activity   | 1. Learning and Reviewing the vocabularies |
 |              | 2. Let’s illustrate the vocabularies of meaning |
 | ❗ **Develop** ❗| 1. Use the “Study Stack” |
-|              | -Insert the illustration of vacabulary and meaning |
+|              | -Insert the illustration of vocabulary and meaning |
 |              | EX) “School”: “a place where childeren go to learn things” |
-|              | 2. Quiz time with your partner and using the “Anki Web” |
+|              | 2. Quiz time with your partner and using the “Study Stack” |
 |💡use sample | 1. Search the "Study Stack” |
 |              | ![image](https://github.com/dhlee3146/Group-5/assets/162955126/9e4fe9d7-b640-453a-86f9-244efa05fe38) |
 |              | ![image](https://github.com/dhlee3146/Group-5/assets/162955126/c7d14150-c5ff-4ddf-9055-6f00f532d644) |
