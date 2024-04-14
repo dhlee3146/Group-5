@@ -25,6 +25,7 @@
 |   Activity   | 1. Learning and Reviewing the vocabularies |
 |              | 2. Let’s illustrate the vocabularies of meaning |
 | ❗ **Develop** ❗| 1. Use the “Study Stack” |
+|              | https://github.com/dhlee3146/dhlee3146/blob/main/presentation%20material.md
 |              | -Insert the illustration of vocabulary and meaning |
 |              | EX) “School”: “a place where childeren go to learn things” |
 |              | 2. Quiz time with your partner and using the “Study Stack” |
