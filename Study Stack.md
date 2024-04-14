@@ -29,6 +29,7 @@
 |              | EX) “School”: “a place where childeren go to learn things” |
 |              | 2. Quiz time with your partner and using the “Study Stack” |
 |💡use sample | 1. Search the "Study Stack” |
+|              | https://www.studystack.com/
 |              | ![image](https://github.com/dhlee3146/Group-5/assets/162955126/9e4fe9d7-b640-453a-86f9-244efa05fe38) |
 |              | ![image](https://github.com/dhlee3146/Group-5/assets/162955126/c7d14150-c5ff-4ddf-9055-6f00f532d644) |
 |              | 2. Log in your gmail. First describe your set of flashcards using the form on the left. Then click the Save Changes button. After you've saved your changes, click the "Data" tab to enter your flashcards. |
