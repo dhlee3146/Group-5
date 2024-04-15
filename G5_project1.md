@@ -1,14 +1,14 @@
 # [Group 5] Digital Literacy _ Introduction to 'StudyStack' 
   
   
-  ## 📁 the video link(presentation)
-  ### https://youtu.be/SstQ0FuKRik?si=x_hRew80DMyPl_FI
+### 📁 the video link(presentation)
+https://youtu.be/SstQ0FuKRik?si=x_hRew80DMyPl_FI
 
 🔐 This video is partially public. You need a link to see it.
 
 
 
-###+ Digital Tool: 'StudyStack'.
+### + Digital Tool: 'StudyStack'.
 
 * StudyStack is a versatile digital tool designed to aid students in their learning journey by providing interactive study materials and resources.
 * It offers a wide range of features to enhance the learning experience across various subjects and topics.
