@@ -52,7 +52,7 @@ https://youtu.be/SstQ0FuKRik?si=x_hRew80DMyPl_FI
 + StudyStack provides tools to track progress or activities, allowing users to monitor their learning goals or identify areas for improvement.
 + After studying with flashcard, the tool notice your achievement.
 + In the Study Log section, you can observe what you have done so far.
-(다혜님! 이 부분 설명하실 때, 스터디스택 시연하면서 발표하실 예정이시라면 스터디 로그 창 보여주시면서 진행하면 더 좋을 것 같아요!)
++ (다혜님! 이 부분 설명하실 때, 스터디스택 시연하면서 발표하실 예정이시라면 스터디 로그 창 보여주시면서 진행하면 더 좋을 것 같아요!)
 
 
 ## 6. Mobile Compatibility:
