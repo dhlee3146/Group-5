@@ -100,7 +100,7 @@
 
 + Digital Tool: StudyStack
 + Senario for activity:
-1. Students look at the word list in the textbook.
+1. Students look at the word in the textbook.
 2. Then, they try to explain each word. For example, they explain the word "school" as "a place where children go to learn something.“
 3. After trying various word explanations and comparing them with those of their group members, they derive the final answer and create a stack on StudyStack.
 4. Afterward, share the stack link via Google Classroom or other classroom platform to make it available to the entire class.
