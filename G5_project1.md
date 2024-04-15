@@ -17,7 +17,7 @@ https://youtu.be/SstQ0FuKRik?si=x_hRew80DMyPl_FI
  
  
  
-# 🍀The features of the study stack
+# 🍀The features of StudyStack
 
 ## 1. Flashcard Function:
 
@@ -90,7 +90,7 @@ https://youtu.be/SstQ0FuKRik?si=x_hRew80DMyPl_FI
 
 # 📌 Limitation
 + When conducting learning through games, we often encountered errors.
-+ But errors did not occur in the flashcard function, the main function of this tool.
++ However, errors did not occur in the flashcard function, the main function of this tool.
 + Errors encountered before starting game activities could be resolved by refreshing the page, allowing normal game activities to begin.
 
 
