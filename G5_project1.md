@@ -109,7 +109,7 @@ https://youtu.be/SstQ0FuKRik?si=x_hRew80DMyPl_FI
 4. Afterward, share the stack link via Google Classroom or other classroom platform to make it available to the entire class.
 5. You can use student‘s stacks to play crossword puzzles or matching games, allowing students to see what other groups of students have done and reviewing vocabulary words.
 
-### Lesson Plan using StudyStack
+### 👩‍🏫 Lesson Plan using StudyStack
 ------------------------------------------------
 + This is the Plan of the English class.
 + In this class, we will use the "Study Stack" of the learning tool.
