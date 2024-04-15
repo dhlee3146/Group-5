@@ -77,7 +77,8 @@ https://youtu.be/SstQ0FuKRik?si=x_hRew80DMyPl_FI
 
 + StudyStack is easily accessible to anyone with an email account.
 
-[ Guide Line ]
+**[ Guide Line ]**
+
 1. First, go to www.studystack.com.
 2. Second, if you are visiting StudyStack for the first time, sign up using your email account and then log in.
 3. Third, create your own stack.
@@ -95,8 +96,8 @@ https://youtu.be/SstQ0FuKRik?si=x_hRew80DMyPl_FI
 
 # 📋 How do we utilize this digital tool in our classroom?
 
-+ ### Lessons focusing on **vocabulary learning**
-+ ### Intended Audience: 7th-grade students
++ ### Activity focusing on **vocabulary learning**
++ ### Targeted student: 7th-grade students
 + ### The goal of this lesson
 : Students can create and understand their own definitions of English words, and increase the effectiveness of learning English words.
 
