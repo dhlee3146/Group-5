@@ -1,7 +1,7 @@
 # [Group 5] Digital Literacy _ Introduction to 'StudyStack' 
   
   
-### 📁 the video link(presentation)
+### 📁 Video link(presentation)
 https://youtu.be/SstQ0FuKRik?si=x_hRew80DMyPl_FI
 
 🔐 This video is partially public. You need a link to see it.
