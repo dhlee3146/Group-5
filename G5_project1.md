@@ -96,13 +96,13 @@ https://youtu.be/SstQ0FuKRik?si=x_hRew80DMyPl_FI
 
 # 📋 How do we utilize this digital tool in our classroom?
 
-+ ### Activity focusing on **vocabulary learning**
-+ ### Targeted student: 7th-grade students
-+ ### The goal of this lesson
++ Activity focusing on **vocabulary learning**
++ Targeted student: 7th-grade students
++ The goal of this lesson
 : Students can create and understand their own definitions of English words, and increase the effectiveness of learning English words.
 
-+ ### Digital Tool: StudyStack
-+ ### Senario for activity:
++ Digital Tool: StudyStack
++ Senario for activity:
 1. Students look at the word list in the textbook.
 2. Then, they try to explain each word. For example, they explain the word "school" as "a place where children go to learn something.“
 3. After trying various word explanations and comparing them with those of their group members, they derive the final answer and create a stack on StudyStack.
