@@ -8,7 +8,7 @@ https://youtu.be/SstQ0FuKRik?si=x_hRew80DMyPl_FI
 
 
 
-### + Digital Tool: 'StudyStack'.
+### 💻: Digital Tool: ' StudyStack '
 
 * StudyStack is a versatile digital tool designed to aid students in their learning journey by providing interactive study materials and resources.
 * It offers a wide range of features to enhance the learning experience across various subjects and topics.
