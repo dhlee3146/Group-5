@@ -4,6 +4,7 @@
 ### 💻: Digital Tool: ' StudyStack '
 
 ![image](https://github.com/dhlee3146/Group-5/assets/162474252/55d55b7b-cfcb-4542-a500-6ba6ceb28f20)
+(https://www.studystack.com/)
 
 * StudyStack is a versatile digital tool designed to aid students in their learning journey by providing interactive study materials and resources.
 * It offers a wide range of features to enhance the learning experience across various subjects and topics.
