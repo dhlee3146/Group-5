@@ -129,6 +129,7 @@ Some of you might find it hard to **discover** what you really like. Then stick 
 ------
 2. Then, they try to explain each word. For example, they explain the word "school" as "a place where children go to learn something.“
 3. After trying various word explanations and comparing them with those of their group members, they derive the final answer and create a stack on StudyStack.
+   ![image](https://github.com/dhlee3146/Group-5/assets/162955126/c1caf607-3d8a-4af7-8d03-cad1cad93087)
 4. Afterward, share the stack link via Google Classroom or other classroom platform to make it available to the entire class.
 5. You can use student‘s stacks to play crossword puzzles or matching games, allowing students to see what other groups of students have done and reviewing vocabulary words.
 
