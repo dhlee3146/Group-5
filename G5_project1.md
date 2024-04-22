@@ -26,6 +26,7 @@
 + It can significantly enhance students' vocabulary learning.
 + StudyStack allows users to create quizzes using the flashcard function, which can help teachers have a quick review before or after class, and students can use them for self-assessment or as study aids to test their knowledge retention.
 ![image](https://github.com/dhlee3146/Group-5/assets/162474252/6cc2df2d-9d03-4665-abb6-a116ea48a597)
+![image](https://github.com/dhlee3146/Group-5/assets/162474252/3d0199e0-3c14-4e07-ba80-70086d3bbd23)
 ![image](https://github.com/dhlee3146/Group-5/assets/162474252/06bf7ce2-c7e7-4ae4-bb2c-a9c59e3de2f5)
 
 
