@@ -33,6 +33,9 @@
 + StudyStack provides educational games that make studying more interesting and enjoyable.
 + These games are designed to reinforce learning and help users understand concepts in a fun way.
 + Through various games such as Matching game, Crossword, Unscramble game, and Chopped game, students' interest can be aroused and more engagement can be induced.
+![image](https://github.com/dhlee3146/Group-5/assets/162474252/bc4bf6f1-1433-4b5d-a282-36990cc1338f)
+![image](https://github.com/dhlee3146/Group-5/assets/162474252/a1613be8-b0ed-4502-819d-598fadf85fa6)
+![image](https://github.com/dhlee3146/Group-5/assets/162474252/60de53e9-3298-4437-92db-353450c6913d)
 
 
 ## 3. Stack Sharing Function:
