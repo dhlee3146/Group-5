@@ -44,6 +44,7 @@
 + In StudyStack, users can share their created stacks with others.
 + Teachers can share their educational stacks with students.
 + Students can share their stacks with other students to help each other in their learning.
+![image](https://github.com/dhlee3146/Group-5/assets/162474252/8e88cfdd-bc44-42f2-9650-5dac4c3a25c5)
 
 
 ## 4. Voice Support Available:
@@ -57,6 +58,7 @@
 + StudyStack provides tools to track progress or activities, allowing users to monitor their learning goals or identify areas for improvement.
 + After studying with flashcard, the tool notice your achievement.
 + In the Study Log section, you can observe what you have done so far.
+![image](https://github.com/dhlee3146/Group-5/assets/162474252/ec8049ed-ed83-4201-b200-be9f3b9a96a7)
 
 
 ## 6. Mobile Compatibility:
